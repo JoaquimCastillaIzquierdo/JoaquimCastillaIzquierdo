@@ -7,7 +7,7 @@ I'm Joaquim Castilla, the founder of BeEléctrico, a company dedicated to engine
 In addition to my technical work, I create comprehensive educational content that breaks down complex energy topics into accessible and engaging videos. These videos are thoughtfully produced, incorporating all the knowledge I've gathered over the last five years, and are designed to inform and inspire others in the field of technology. I share this content with a growing audience of nearly 8,000 followers on TikTok and 185 subscribers on YouTube, as I continue to expand my reach and impact in the technological and energy sectors.
 
 <p align="left">
-      <a href="https://www.youtube.com/c/beelectrico?sub_confirmation=1">
+      <a href="https://www.youtube.com/beelectrico?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCdOpugynTM2avPSjIAsRIDQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/beelectrico">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCdOpugynTM2avPSjIAsRIDQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
