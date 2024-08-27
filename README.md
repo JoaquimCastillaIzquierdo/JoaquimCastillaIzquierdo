@@ -1,4 +1,11 @@
-# Joaquim Castilla
+# ⚡Joaquim Castilla
+
+**`Electro-Tech Engineer`**
+
+I'm Joaquim Castilla, the founder of BeEléctrico, a company dedicated to engineering and manufacturing safe, high-quality lithium batteries from scratch. Every project at BeEléctrico is meticulously crafted, from initial concept and design to the final product, ensuring reliable and sustainable energy solutions. My expertise is built on years of research and hands-on experience, which I channel into each battery to meet the highest standards of safety and performance.
+
+In addition to my technical work, I create comprehensive educational content that breaks down complex energy topics into accessible and engaging videos. These videos are thoughtfully produced, incorporating all the knowledge I've gathered over the last five years, and are designed to inform and inspire others in the field of technology. I share this content with a growing audience of nearly 8,000 followers on TikTok and 185 subscribers on YouTube, as I continue to expand my reach and impact in the technological and energy sectors.
+
 
 <!--
 **JoaquimCastillaIzquierdo/JoaquimCastillaIzquierdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
